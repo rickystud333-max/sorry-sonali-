@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -87,12 +86,7 @@ h1 {
                  0 0 20px #ff4d6d,
                  0 0 30px #ff85a2;
 }
-  
-<div class="photo-frame">
-    <img src="couple.png" alt="Us Together ❤️">
-    <div class="caption">Us... the way I always want us to be ❤️</div>
-</div>
-  
+   
 .message {
     font-size: 20px;
     line-height: 1.8;
@@ -158,47 +152,95 @@ button:hover {
 <div class="container">
     <h1>Baby, I’m Sorry ❤️</h1>
 
+    <div class="photo-frame">
+        <img src="love.png" alt="Us Together ❤️">
+        <div class="caption">Us... the way I always want us to be ❤️</div>
+    </div>
+
     <div class="message">
-        Mujhe pata hai sirf "sorry" bolne se sab theek nahi hoga...  
-        Maine tujhe bahut hurt kiya hai, aur iska regret mujhe hai.  
-        Bas itna samajh ki jo bhi hai, dil se hai.....  
-        Jitna tu apna bhai sa pyar karti hai utna he main terse...
 
-        <br><br>
+       <p>
+       Mujhe pata hai sirf “sorry” bolne se sab theek nahi hoga… 💔<br>
+       Maine tujhe bahut hurt kiya hai, aur iska regret mujhe sach mein hai.<br>
+       Shayad jo dard maine diya, uska ehsaas tujhe mujhse zyada hua hoga… aur yahi baat mujhe andar se todti hai.<br>
+       Kabhi kabhi sochta hoon ki kaash waqt wapas aa jaye ⏳, toh shayad main tujhe woh dard kabhi na deta.
+       </p>
 
-        Main ghar par tab tak kuch nahi bata sakta jab tak meri job nahi lag jaati...  
-        Aur tujhe shaadi wali commitment bhi isiliye nahi de raha tha.  
-        Kyuki main kabhi bi tujhe hurt nai karna chachta tha....
-        aur mujhe bi isse pehle aajtak feelings nai ayi...
-        par ab jb ayi toh pata laga......
-        
-        <br><br>
+       <p>
+       Bas itna samajh le ki jo bhi hai, dil se hai ❤️<br>
+       Mere emotions kabhi fake nahi the, aur na hi mera pyaar.<br>
+       Shayad dikhane ka tareeka galat tha, shayad samjhaane mein kami reh gayi…<br>
+       Par jo mehsoos karta hoon, woh hamesha sach tha.<br>
+       Galtiyan meri thi… par meri mohabbat kabhi jhooti nahi thi.
+       </p>
 
-        Mujhe teri awaaz sunne ka mann karta hai...  
-        Tujhe dekhne ka mann karta hai...  
-        Tera gussa karna, tera ladna, sab yaad aata hai, 
-        tera nakhre karna, voh over cute banna, apni baat manvana zabardasti, 
-        nautanki karna wagera wagera. 
-        hamrai vibe bi achi match hoti...
-        aur agar qualities dekhen toh tu best hai.....
-        hum sath main bhaut acha lagenge......
+       <p>
+       Main ghar par tab tak kuch nahi bata sakta jab tak meri job nahi lag jaati… 📌<br>
+       Aur shaadi wali commitment bhi isliye nahi de paaya kyunki main kabhi tujhe jhooti umeed dekar hurt nahi karna chahta tha.<br>
+       Main chahta tha ki jab bhi tere saamne koi wada rakhun, woh sirf lafzon ka nahi, haqeeqat ka ho 🤍<br>
+       Isliye ruk raha tha… khud ko pehle itna kaabil banane ke liye ki tujhe bina darr ke apna sakun.
+       </p>
 
-        <br><br>
+       <p>
+       Job toh main le lunga… kyunki uske bina na meri zindagi sambhalegi, na main woh future bana paunga jo main chahta hoon 📚<br>
+       Bas tab tak yahi socha tha ki hum dono apne apne goals aur sapno par focus karein — tere comfort ke saath, bina kisi pressure ke ✨<br>
+       Mujhe bhi apne exam par dhyaan dena hai, aur tujhe bhi apni zindagi ko us jagah tak le jaana hai jahan tu deserve karti hai.<br>
+       Par sach yeh hai… itni responsibilities aur future ki tension ke beech bhi, mera dil tujhe alag nahi kar paata 🤍<br>
+       Main chahta hoon ki main khud ko bhi sambhalun, apne future ko bhi, aur tujhe bhi us jagah rakhun jahan tu deserve karti hai — izzat, sukoon aur sachche pyaar ke saath.<br>
+       Bas yahi sochta hoon… kya hum apne sapne sambhalte hue, ek dusre ka saath bhi nahi sambhal sakte?
+       </p>
 
-        Job main le lunga, ye confidence hai mujhe...  
-        Par tujhe lose nahi karna chahta.  
-        Kyunki mujhe tujhse pyaar hai.  
-        Kyun hai, kaise hai, kb huya... nahi pata.  
-        Bas hai.  
+       <p>
+       Sach kahun toh, aaj tak mujhe kisi ke liye aisi feelings nahi aayi… 🌙<br>
+       Isliye samajhne mein bhi waqt lag gaya…<br>
+       Par ab jab aayi hain, tab samajh aaya ki kisi ko dil se chahna kya hota hai.<br>
+       Aur ab jab samjha hoon… toh darr lagta hai, tujhe kho dene ka 😔
+       </p>
 
-        <br><br>
+       <p>
+       Mujhe teri awaaz sunne ka mann karta hai… 🎧<br>
+       Tujhe dekhne ka mann karta hai… 👀<br>
+       Tera gussa karna, tera ladna, tere nakhre, tera over cute banna, apni baat zabardasti manvana, teri nautanki… sab yaad aata hai 🥺<br>
+       Sach bolun toh padhte waqt hi khud ko rok leta hoon, taki apne goal se divert na ho jaun…<br>
+       Warna baaki har waqt tu mere dimaag aur dil mein rehti hai ❤️‍🩹
+       </p>
 
-        Ek baat aur...  
-        Main har cheez mein careless raha hu.  
-        Mujhe care karna shayad kabhi properly nahi aaya.  
-        Bachpan se hi aisa raha hu.  
-        Par agar tu sikhayegi...  
-        Toh seekhne ki puri koshish rahegi meri.  
+       <p>
+       Tere saath vibe bhi alag hi feel hoti hai… ✨<br>
+       Natural, comfortable aur sachchi.<br>
+       Aur agar qualities ki baat karun, toh mere liye tu best hai 🌸<br>
+       Mujhe lagta hai hum saath mein bahut ache lagte… sirf dekhne mein nahi, samajhne mein bhi.
+       </p>
+
+       <p>
+       Ek baat aur…<br>
+       Main har cheez mein careless raha hoon 😞<br>
+       Sach bolun toh mujhe kabhi kisi cheez ki care karna properly aaya hi nahi.<br>
+       Shayad isi wajah se tujhe woh care nahi de paaya jo tujhe milni chahiye thi.<br>
+       Aur us baat ka guilt mujhe rahega.
+       </p>
+
+       <p>
+       Par agar tu sikhayegi, toh seekhne ki meri puri koshish rahegi 🤍<br>
+       Ab tak bhi maine tujhse bahut kuch seekha hai… aur aage bhi bahut kuch seekhna chahta hoon.<br>
+       Main perfect nahi hoon… par tere saath better banna chahta hoon 🌹<br>
+       Shayad mere liye pyaar ka matlab bhi wahi hai — tere saath rehkar khud ko sudhaarna.
+       </p>
+
+       <p>
+       Aur ek baat yaad rakhna — 💫<br>
+       Mere liye tu kabhi koi option nahi thi, aur na kabhi hogi.<br>
+       Tu meri “only one” hai ❤️<br>
+       Jo beet gaya, usse wahi chhod dete hain…<br>
+       Kyunki agar hum sach mein saath chalein, toh past sirf ek chapter hoga… aur future hum dono ka 🤝
+       </p>
+
+       <p>
+       Bas itna jaanta hoon…<br>
+       Main tujhe hurt karne ke liye nahi, tere saath chalne ke liye aaya tha ❤️<br>
+       Aur aaj bhi wahi chahta hoon.
+       </p>
+
     </div>
 
     <div class="question">
@@ -210,7 +252,17 @@ button:hover {
         <button class="no" onclick="showNo()">No</button>
     </div>
 
+<form action="https://formspree.io/f/xwvdeaop" method="POST">
+
+<textarea name="message" placeholder="Write your reply here ❤️" required></textarea>
+
+<br><br>
+
+<button type="submit" class="yes">Send Reply ❤️</button>
+
+</form>
     <div id="response"></div>
+
 </div>
 
 <script>
