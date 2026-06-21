@@ -1,0 +1,230 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>For You ❤️</title>
+
+```html
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4, #ffd1ff);
+    background-size: 400% 400%;
+    animation: romanticBg 12s ease infinite;
+    overflow-x: hidden;
+}
+
+/* Animated background movement */
+@keyframes romanticBg {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Floating hearts */
+body::before {
+    content: "❤️ ❤️ 💕 ❤️ 💖 💕 ❤️";
+    position: fixed;
+    top: -10px;
+    left: 0;
+    width: 100%;
+    font-size: 25px;
+    opacity: 0.3;
+    animation: floatHearts 12s linear infinite;
+}
+
+@keyframes floatHearts {
+    0% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(100vh);
+    }
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+.photo-frame {
+    margin: 30px auto;
+    width: 320px;
+    padding: 10px;
+    background: white;
+    border-radius: 25px;
+    box-shadow: 0px 10px 35px rgba(255, 77, 109, 0.4);
+    transform: rotate(-2deg);
+    transition: 0.4s;
+}
+
+.photo-frame:hover {
+    transform: rotate(0deg) scale(1.05);
+}
+
+.photo-frame img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.caption {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #ff4d6d;
+    font-style: italic;
+}
+  
+h1 {
+    color: white;
+    font-size: 42px;
+    text-shadow: 0 0 10px #ff4d6d,
+                 0 0 20px #ff4d6d,
+                 0 0 30px #ff85a2;
+}
+  
+<div class="photo-frame">
+    <img src="couple.png" alt="Us Together ❤️">
+    <div class="caption">Us... the way I always want us to be ❤️</div>
+</div>
+  
+.message {
+    font-size: 20px;
+    line-height: 1.8;
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: blur(10px);
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0px 8px 30px rgba(255,77,109,0.25);
+    margin-top: 20px;
+}
+
+.question {
+    margin-top: 30px;
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 0 0 10px #ff4d6d;
+}
+
+.buttons {
+    margin-top: 25px;
+}
+
+button {
+    padding: 15px 35px;
+    font-size: 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+.yes {
+    background: #ff4d6d;
+    color: white;
+    box-shadow: 0 0 15px #ff4d6d;
+}
+
+.no {
+    background: #666;
+    color: white;
+}
+
+#response {
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 0 10px #ff4d6d;
+}
+</style>
+```
+
+</head>
+
+<body>
+
+<div class="container">
+    <h1>Baby, I’m Sorry ❤️</h1>
+
+    <div class="message">
+        Mujhe pata hai sirf "sorry" bolne se sab theek nahi hoga...  
+        Maine tujhe bahut hurt kiya hai, aur iska regret mujhe hai.  
+        Bas itna samajh ki jo bhi hai, dil se hai.....  
+        Jitna tu apna bhai sa pyar karti hai utna he main terse...
+
+        <br><br>
+
+        Main ghar par tab tak kuch nahi bata sakta jab tak meri job nahi lag jaati...  
+        Aur tujhe shaadi wali commitment bhi isiliye nahi de raha tha.  
+        Kyuki main kabhi bi tujhe hurt nai karna chachta tha....
+        aur mujhe bi isse pehle aajtak feelings nai ayi...
+        par ab jb ayi toh pata laga......
+        
+        <br><br>
+
+        Mujhe teri awaaz sunne ka mann karta hai...  
+        Tujhe dekhne ka mann karta hai...  
+        Tera gussa karna, tera ladna, sab yaad aata hai, 
+        tera nakhre karna, voh over cute banna, apni baat manvana zabardasti, 
+        nautanki karna wagera wagera. 
+        hamrai vibe bi achi match hoti...
+        aur agar qualities dekhen toh tu best hai.....
+        hum sath main bhaut acha lagenge......
+
+        <br><br>
+
+        Job main le lunga, ye confidence hai mujhe...  
+        Par tujhe lose nahi karna chahta.  
+        Kyunki mujhe tujhse pyaar hai.  
+        Kyun hai, kaise hai, kb huya... nahi pata.  
+        Bas hai.  
+
+        <br><br>
+
+        Ek baat aur...  
+        Main har cheez mein careless raha hu.  
+        Mujhe care karna shayad kabhi properly nahi aaya.  
+        Bachpan se hi aisa raha hu.  
+        Par agar tu sikhayegi...  
+        Toh seekhne ki puri koshish rahegi meri.  
+    </div>
+
+    <div class="question">
+        Kya tu mujhe maaf karegi? ❤️
+    </div>
+
+    <div class="buttons">
+        <button class="yes" onclick="showLove()">Yes</button>
+        <button class="no" onclick="showNo()">No</button>
+    </div>
+
+    <div id="response"></div>
+</div>
+
+<script>
+function showLove() {
+    document.getElementById("response").innerHTML =
+    "Thank you... ❤️ Main promise karta hu ki better banne ki puri koshish karunga.";
+}
+
+function showNo() {
+    document.getElementById("response").innerHTML =
+    "Main wait karunga... jab tak tera gussa kam nahi hota ❤️";
+}
+</script>
+
+</body>
+</html>
+```
